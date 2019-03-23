@@ -1,4 +1,5 @@
-## This is a Chinese nlp package, which can extract information from texts.
+## This is a Chinese nlp package, which can extract information from texts.微信文章网址
+https://mp.weixin.qq.com/s/xlQOfAY0rAeXH6bntLMexQ
 
 [![pypiv](https://img.shields.io/pypi/v/rake-nltk.svg)](https://pypi.org/project/cocoNLP/)
 [![Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://www.zhihu.com/people/mountain-blue-64/posts)
